@@ -1,6 +1,7 @@
 import { useAppStore } from '../../store/useAppStore';
 import { Sidebar } from './Sidebar';
 import { Header } from './Header';
+import { Footer } from './Footer';
 
 interface LayoutProps {
   children: React.ReactNode;
@@ -22,6 +23,8 @@ export function Layout({ children }: LayoutProps) {
         <main className="flex-1 overflow-auto">
           {children}
         </main>
+
+        <Footer />
       </div>
     </div>
   );
