@@ -45,10 +45,10 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/devhub.git
+git clone https://github.com/ozefernan/Toolkit-Dev.git
 
 # Entre na pasta
-cd devhub
+cd Toolkit-Dev
 
 # Instale as dependências
 npm install
@@ -80,33 +80,6 @@ devhub/
 ├── public/               # Assets estáticos
 └── ...
 ```
-
-## Roadmap
-
-### Fase 1 - Innitial ✅ (Completado)
-
-- [x] Setup do projeto
-- [x] Integração DevDocs API
-- [x] Sistema de cache com IndexedDB
-- [x] Interface de documentação
-- [x] Busca básica
-- [x] 15+ linguagens disponíveis
-
-### Fase 2 - Tools ✅ (Completado)
-
-- [x] JSON formatter
-- [x] API tester
-- [x] RegEx tool
-- [x] Color picker
-- [x] Base64 encoder/decoder
-
-### Fase 3 - Playground (Em Andamento)
-
-- [ ] Monaco Editor integration
-- [ ] JavaScript execution
-- [ ] Split view com docs
-- [ ] Snippets salvos
-
 
 ## Features Diferenciais
 
