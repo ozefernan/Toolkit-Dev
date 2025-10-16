@@ -83,7 +83,7 @@ devhub/
 
 ## Roadmap
 
-### Fase 1 - MVP ✅ (Completado)
+### Fase 1 - Innitial ✅ (Completado)
 
 - [x] Setup do projeto
 - [x] Integração DevDocs API
@@ -92,29 +92,21 @@ devhub/
 - [x] Busca básica
 - [x] 15+ linguagens disponíveis
 
-### Fase 2 - Playground (Em Andamento)
+### Fase 2 - Tools ✅ (Completado)
+
+- [x] JSON formatter
+- [x] API tester
+- [x] RegEx tool
+- [x] Color picker
+- [x] Base64 encoder/decoder
+
+### Fase 3 - Playground (Em Andamento)
 
 - [ ] Monaco Editor integration
 - [ ] JavaScript execution
 - [ ] Split view com docs
 - [ ] Snippets salvos
 
-### Fase 3 - Tools
-
-- [ ] JSON formatter
-- [ ] API tester
-- [ ] RegEx tool
-- [ ] Color picker
-- [ ] Base64 encoder/decoder
-
-### Fase 4 - Features Avançadas
-
-- [ ] PWA support
-- [ ] Sync de snippets (GitHub Gist)
-- [ ] Temas customizáveis
-- [ ] Atalhos de teclado
-- [ ] Multi-language comparison view
-- [ ] AI-powered search
 
 ## Features Diferenciais
 
@@ -138,6 +130,3 @@ MIT
 Software Engineer
 [GitHub](https://github.com/ozefernan) | [LinkedIn](https://www.linkedin.com/in/oseasfernandes/)
 
----
-
-**Nota**: Este projeto está em desenvolvimento ativo. Algumas features ainda estão sendo implementadas.
